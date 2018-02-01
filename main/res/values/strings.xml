@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluación1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="cero">0</string>
+    <string name="type_name">Type Name:</string>
+    <string name="type_age">Type Age:</string>
+    <string name="type_phone">Type Phone:</string>
+    <string name="submit">Submit</string>
+    <string name="exit">Exit</string>
+    <string name="your_data">Your data:</string>
+    <string name="your_dat">Your data</string>
+    <string name="exit_1">EXIT</string>
+</resources>
